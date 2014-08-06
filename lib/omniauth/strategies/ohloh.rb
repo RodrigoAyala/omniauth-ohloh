@@ -8,7 +8,7 @@ module OmniAuth
       option :name, "ohloh"
 
       option :client_options, {
-        :site => "http://www.ohloh.net",
+        :site => "https://www.openhub.net",
         :token_url => "/oauth/access_token"
       }
 
